@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Bhargav (He/Him/His)
-- 👨‍🎓 I'm currently pursuing my Master's in Robotics at the University of Maryland, College Park
-- 🕵️‍♂️ My interests lie in the fields of Vehicle Autonomy, Computer Vision and Deep Learning
-- 📫 Reach me at: bhargav.soothram@gmail.com
-
-<!---
-Bhargav-Soothram/Bhargav-Soothram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Bhargav!
+- 👨‍🎓 I recently graduated with a Master's in Robotics from the University of Maryland.
+- 🕵️‍♂️ I have a strong background in Computer Vision and Deep Learning, and I am eager to learn more!
+- 🛠️ Tech Stack: Python | C++ | PyTorch | OpenCV | ROS | Git
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavsoothram/) to stay in touch and explore potential collaborations.
+- 📫 Alternatively, email me at [](bhargav.soothram@gmail.com).
